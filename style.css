@@ -317,42 +317,42 @@ p {
   }
   
 #services .card1 {
-	background-image: url(img/assets/ceviche.jpg);
+	background-image: url(img/assets/camp.png);
 }
 
 #services .card2 {
-	background-image: url(img/assets/cropped_psew.jpg);
+	background-image: url(img/assets/hawaii.png);
 }
 #services .card3 {
-	background-image: url(img/assets/boozy_icecream.jpg);
+	background-image: url(img/assets/IMG_0369.png);
 }
 #services .card4 {
-	background-image: url(img/assets/cheesecake.jpg);
+	background-image: url(img/assets/rol.png);
 }
 #services .card5 {
-	background-image: url(img/assets/cropped_tahdig.png);
+	background-image: url(img/assets/mangonada.jpg);
 }
 #services .card6 {
-	background-image: url(img/assets/the_korean_vegan.jpg);
+	background-image: url(img/assets/IMG_0509.png);
 }
 
 #services .card7 {
-	background-image: url(img/assets/oyster_mushroom.jpg);
+	background-image: url(img/assets/malibu.png);
 }
 #services .card8 {
-	background-image: url(img/assets/coctel2.jpg);
+	background-image: url(img/assets/seattle.png);
 }
 #services .card9 {
-	background-image: url(img/assets/IMG_0342.png);
+	background-image: url(img/assets/sushi.JPG);
 }
 #services .card10 {
-	background-image: url(img/assets/IMG_0369.png);
+	background-image: url(img/assets/grad.png);
 }
 #services .card11 {
-	background-image: url(img/assets/IMG_0396.png);
+	background-image: url(img/assets/pascal.jpg);
 }
 #services .card12 {
-	background-image: url(img/assets/IMG_0509.png);
+	background-image: url(img/assets/breakfast.JPG);
 }
 
 #services .service-item::after {
